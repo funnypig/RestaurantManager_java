@@ -2,6 +2,7 @@
 
 Look at program in Screenshots
 
+Project:
 - add products to database
 - create recipes
 - calculate cost of the recipe
